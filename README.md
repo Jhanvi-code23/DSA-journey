@@ -5,7 +5,7 @@ This repository contains my solutions and notes while learning Data Structures a
 ## Progress
 
 - [x] Patterns
-- [ ] Basic Maths
+- [x] Basic Maths
 - [ ] Hashing
 - [ ] Recursion
 - [ ] Sorting

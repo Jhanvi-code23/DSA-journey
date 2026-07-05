@@ -11,6 +11,6 @@ This repository contains my solutions and notes while learning Data Structures a
 - [ ] Sorting
 - [ ] Arrays
 
-Patterns Solved: 22
-Basic maths concepts: 7
-Basics of Recursion problems: 11
+Patterns Solved: 22 <br>
+Basic maths concepts: 7 <br>
+Basics of Recursion problems: 11 <br>

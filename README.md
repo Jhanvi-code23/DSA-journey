@@ -20,5 +20,5 @@ Basics of Hashing problems: 4 <br>
 
 
 Question attempted on-  
-Coding 360 by Coding Ninjas- 18  
+Coding 360 by Coding Ninjas- 21  
 Leetcode- 3

@@ -7,17 +7,6 @@
 
 ---
 
-## 👩‍💻 About
-
-Hi! I'm **Jhanvi Gupta**, a B.Tech Information Technology student passionate about Software Development and Problem Solving.
-
-This repository contains my DSA practice, notes, and solutions while following a structured roadmap. My goal is to strengthen problem-solving skills and prepare for coding interviews.
-
-- 💻 Language: **Java**
-- 📚 Platform: Coding Ninjas (Coding360) & LeetCode
-- 🎯 Goal: Become interview-ready through consistent DSA practice.
-
----
 
 # 🗺️ DSA Roadmap
 
@@ -43,16 +32,6 @@ This repository contains my DSA practice, notes, and solutions while following a
 
 ---
 
-# 📈 Overall Progress
-
-```text
-█████□□□□□□□□□□□ 17%
-
-Completed Topics : 5 / 30
-```
-
----
-
 # 📚 Topics Covered
 
 | Topic | Problems |
@@ -74,13 +53,6 @@ Completed Topics : 5 / 30
 | Coding Ninjas (Coding360) | 22 |
 | LeetCode | 3 |
 
----
-
-# 🔥 Current Focus
-
-```text
-➡️ Arrays
-```
 
 ---
 
@@ -97,19 +69,6 @@ DSA-Journey
 ├── 06. Arrays
 └── README.md
 ```
-
----
-
-# 📖 What's Inside Every Topic?
-
-Each topic contains:
-
-- ✅ Java Solutions
-- ✅ Well-commented Code
-- ✅ Practice Questions
-- ✅ Notes (where applicable)
-- ✅ Time & Space Complexity
-
 ---
 
 # 🎯 Milestones
@@ -136,8 +95,6 @@ Consistency over perfection. Every solved problem is one step closer to becoming
 ---
 
 <p align="center">
-
-⭐ If you find this repository helpful, feel free to star it!
 
 Happy Coding! 🚀
 

@@ -90,8 +90,7 @@ DSA-Journey
 
 > **"Small improvements every day lead to big results."**
 
-Consistency over perfection. Every solved problem is one step closer to becoming a better software engineer.
-
+"Consistency beats intensity."
 ---
 
 <p align="center">

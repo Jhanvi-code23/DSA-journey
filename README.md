@@ -100,9 +100,3 @@ Happy Coding! 🚀
 
 </p>
 
-
-
-
-Question attempted on-  
-Coding 360 by Coding Ninjas- 22  
-Leetcode- 3

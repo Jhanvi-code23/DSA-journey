@@ -29,12 +29,12 @@ public class QuickSort {
         while(i<j){
             
             // movement of pointer i
-            
+
             /* the pointer moves towards right- and we look for an element greater than the pivot.
                If found- we stop the pointer at that element. toh jb tk element at index i is less
                than the pivot element in the array- we keep increasing i by 1 so the pointer moves forward. */
 
-               while(i<=high && arr[i]<=pivot){ /* we put = with arr[i]<=arr[pivot] so if there are more
+               while(i<=high && arr[i]<=pivot){ /* we put = with arr[i]<=pivot so if there are more
                                                      than one elements same as the pivot element then we put it in the left array 
                                                      Also, i<=high is important so that i does not move past the highest pointer of the array-
                                                      SHOULD NOT EXCEED THE LENGTH OF ARRAY */ 
@@ -47,7 +47,7 @@ public class QuickSort {
                SMALLER than the pivot element. if found- we stop the pointer at that element. toh jb tk element
                at index j is greater than the pivot element, we keep decrementing the j- so the pointer moves backward */
 
-               while(j>=low && arr[j]>pivot){ /* we dont use = with arr[j]>arr[pivot] becoz we have already placed the 
+               while(arr[j]>pivot && j>=low){ /* we dont use = with arr[j]>pivot becoz we have already placed the 
                                                       eqaul element in the left array 
                                                       Also, j>=low is important to make sure that j does not move past the
                                                       lowest point of the array. */
@@ -96,8 +96,4 @@ public class QuickSort {
         }
         System.out.println(); //print a space after the sorted array
     }
-
-
-
-
 }

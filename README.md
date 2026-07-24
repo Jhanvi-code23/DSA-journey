@@ -36,13 +36,14 @@
 
 | Topic | Problems |
 |--------|---------:|
-| 🎨 Patterns | 22 |
-| ➗ Basic Maths | 7 |
-| 🔁 Basics of Recursion | 11 |
-| #️⃣ Basics of Hashing | 4 |
-| 🔀 Sorting Algorithms | 5 |
+| Patterns | 22 |
+| Basic Maths | 7 |
+| Basics of Recursion | 11 |
+| Basics of Hashing | 4 |
+| Sorting Algorithms | 5 |
+| Arrays | 6 |
 
-**Total Problems Solved:** **49**
+**Total Problems Solved:** **55**
 
 ---
 

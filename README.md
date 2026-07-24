@@ -41,9 +41,8 @@
 | Basics of Recursion | 11 |
 | Basics of Hashing | 4 |
 | Sorting Algorithms | 5 |
-| Arrays | 6 |
 
-**Total Problems Solved:** **55**
+**Total Problems Solved:** **49**
 
 ---
 

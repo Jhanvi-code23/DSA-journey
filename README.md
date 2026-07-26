@@ -36,11 +36,11 @@
 
 | Topic | Problems |
 |--------|---------:|
-| 🎨 Patterns | 22 |
-| ➗ Basic Maths | 7 |
-| 🔁 Basics of Recursion | 11 |
-| #️⃣ Basics of Hashing | 4 |
-| 🔀 Sorting Algorithms | 5 |
+| Patterns | 22 |
+| Basic Maths | 7 |
+| Basics of Recursion | 11 |
+| Basics of Hashing | 4 |
+| Sorting Algorithms | 5 |
 
 **Total Problems Solved:** **49**
 
@@ -51,7 +51,7 @@
 | Platform | Problems Solved |
 |----------|----------------:|
 | Coding Ninjas (Coding360) | 24 |
-| LeetCode | 4 |
+| LeetCode | 5 |
 
 
 ---

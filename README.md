@@ -50,7 +50,7 @@
 
 | Platform | Problems Solved |
 |----------|----------------:|
-| Coding Ninjas (Coding360) | 24 |
+| Coding Ninjas (Coding360) | 25 |
 | LeetCode | 5 |
 
 

@@ -1,5 +1,5 @@
 //brute force approach
-import java.util.HashMap;
+// import java.util.HashMap;
 public class TwoSum {
     // public static void twoSum(int[] nums, int target) {
     //     int n = nums.length;
